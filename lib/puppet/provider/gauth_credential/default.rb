@@ -11,7 +11,6 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-require 'google/object_store'
 require 'puppet'
 
 # A dummy provider that tells the user he needs to specify a provider.

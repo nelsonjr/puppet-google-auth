@@ -11,8 +11,6 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-require 'google/authorization'
-require 'google/object_store'
 require 'puppet'
 
 # A Puppet provider that implements authenticating requests using a Google Cloud
